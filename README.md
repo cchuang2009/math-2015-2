@@ -8,6 +8,29 @@ The Course, **The Truth Behind the Scenes**, Repo at Chang-Gung University, Taiw
 - [IPywidgets](1/ipywidgets.ipynb) Ipywidget Introduction ( Shape of the flower;
 
 
+# R for Bio-statistics
+
+These lectures is written based on the book
+```
+Principles of Biostatistics (with CD-ROM) 2nd Edition
+by Marcello Pagano (Author), Kimberlee Gauvreau 
+```
+and some basic notes about biostatistics.
+
+The resources include the R-codes for exercises mostly; You can install the 
+
+- [anaconda and R-essentials](https://www.continuum.io/blog/developer/jupyter-and-conda-r);
+- [our live Linux system on USB](http://diffusion.cgu.edu.tw/ftp/porteus/64bit) download **Jupyter-4.1-Python35.iso**.
+
+to run the codes.
+
+Brief of Codes
+- [Data and Measurement: Homeworks I](R/Homework-1.ipynb)
+- [Probability and Measures: Homeworks II](R/Homework-2.ipynb) RR, ROC Curve
+- [Probability and Distribution: Homeworks III](R/Homework-3.ipynb)
+- [Probability and Distribution](RProbabilityDistributions.ipynb)
+- [Statistical Inferences](R/StatInferences.ipynb)
+
 **Author** 
 
 Chu-Ching Huang, 
