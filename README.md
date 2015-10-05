@@ -7,3 +7,14 @@ The Course, **The True Behind the Scenes**, Repo at Chang-Gunf University, Taiwa
 - [Cycloid](1/cycloid.ipynb) JSAnimation and Bokeh Introduction;
 - [IPywidgets](1/ipywidgets.ipynb) Ipywidget Introduction ( Shape of the flower;
 
+
+**Author** 
+
+Chu-Ching Huang, 
+
+Group of Sciences, Centre of General Education
+
+Chang-Gung, University, Taiwan
+
+cchuang2009@gmail.com
+
