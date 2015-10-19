@@ -33,6 +33,14 @@ Brief of Codes
 - [Probability and Distribution: Homeworks III](R/Homework-3.ipynb)
 - [Probability and Distribution](RProbabilityDistributions.ipynb)
 - [Statistical Inferences](R/StatInferences.ipynb)
+- [Statistical Inferences-2](R/StatInferences-2.ipynb)
+
+[Computer Practics by R]
+- [computer practice-1: Basic Concepts](R/Computer/Romputer-1.ipynb)
+- [computer practice-2: Estimation and ROC Curve](R/Computer/Romputer-2.ipynb)
+- [computer practice-3: Plotting Utility](R/Computer/Romputer-3.ipynb)
+
+
 
 **Author** 
 
