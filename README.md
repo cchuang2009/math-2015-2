@@ -36,9 +36,9 @@ Brief of Codes
 - [Statistical Inferences-2](R/StatInferences-2.ipynb)
 
 [Computer Practics by R]
-- [computer practice-1: Basic Concepts](R/Computer/Romputer-1.ipynb)
-- [computer practice-2: Estimation and ROC Curve](R/Computer/Romputer-2.ipynb)
-- [computer practice-3: Plotting Utility](R/Computer/Romputer-3.ipynb)
+- [computer practice-1: Basic Concepts](R/computer/Romputer-1.ipynb)
+- [computer practice-2: Estimation and ROC Curve](R/computer/Romputer-2.ipynb)
+- [computer practice-3: Plotting Utility](R/computer/Romputer-3.ipynb)
 
 
 
