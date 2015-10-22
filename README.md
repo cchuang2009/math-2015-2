@@ -4,6 +4,7 @@ The Course, **The Truth Behind the Scenes**, Repo at Chang-Gung University, Taiw
 
 - [Introduction](index.ipynb) Introduction, including Myth of Golden Ratio, Sound of blue whales, Positions of MacDolds and KFC's from big data;
 - [Dengue Outbreak At Tainan, Taiwan](1/maps.ipynb) Spread of Dengue at Taiwan, Data reduction by Principal Component Analysis, also including how to make data animation, by JSAnimation and purely HTML/Javascript;
+- [Dengue Outbreak At Tainan, Taiwan, temperature added](1/maps-temperature.ipynb) 
 - [Cycloid](1/cycloid.ipynb) JSAnimation and Bokeh Introduction;
 - [IPywidgets](1/ipywidgets.ipynb) Ipywidget Introduction ( Shape of the flower;
 - [Differential Equations](4/2015-2-1.ipynb) Power of Differential Equations, including Dog chasing the master, four cats problem, 
@@ -34,6 +35,9 @@ Brief of Codes
 - [Probability and Distribution](RProbabilityDistributions.ipynb)
 - [Statistical Inferences](R/StatInferences.ipynb)
 - [Statistical Inferences-2](R/StatInferences-2.ipynb)
+- [Estimation](R/StatInferences-3.ipynb)
+
+
 
 [Computer Practics by R]
 - [computer practice-1: Basic Concepts](R/computer/Computer-1.ipynb)
