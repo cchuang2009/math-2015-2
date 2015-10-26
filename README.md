@@ -33,10 +33,10 @@ Brief of Codes
 - [Probability and Measures: Homeworks II](R/Homework-2.ipynb) RR, ROC Curve
 - [Probability and Distribution: Homeworks III](R/Homework-3.ipynb)
 - [Probability and Distribution](R/ProbabilityDistributions.ipynb)
-- [Statistical Inferences](R/StatInferences.ipynb)
-- [Statistical Inferences-2](R/StatInferences-2.ipynb)
-- [Estimation](R/StatInferences-3.ipynb)
-- [Sample size Estimation](R/StatInferences-4.ipynb)
+- [Statistical Inferences](R/StatInference.ipynb)
+- [Statistical Inferences-2](R/StatInference-2.ipynb)
+- [Estimation](R/StatInference-3.ipynb)
+- [Sample size Estimation](R/StatInference-4.ipynb)
 
 
 
