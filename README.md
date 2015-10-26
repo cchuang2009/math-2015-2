@@ -36,6 +36,8 @@ Brief of Codes
 - [Statistical Inferences](R/StatInferences.ipynb)
 - [Statistical Inferences-2](R/StatInferences-2.ipynb)
 - [Estimation](R/StatInferences-3.ipynb)
+- [Sample size Estimation](R/StatInferences-4.ipynb)
+
 
 
 
