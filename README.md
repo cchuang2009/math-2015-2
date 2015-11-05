@@ -37,7 +37,8 @@ Brief of Codes
 - [Statistical Inferences-2](R/StatInference-2.ipynb)
 - [Estimation](R/StatInference-3.ipynb)
 - [Sample size Estimation](R/StatInference-4.ipynb)
-
+- [Contingency Table](R/ContingencyTable.ipynb)
+- [Anova](R/Anova.ipynb)
 
 
 
